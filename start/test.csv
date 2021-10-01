@@ -1,0 +1,16 @@
+test,,,,,
+test,test,,,,
+test,test,test,test,test,
+,,EVERY,FALSE,Qualifying Person,
+,,,,TRUE,walks
+,,,,FALSE,eats
+,,,,FALSE,drinks
+,,MUST,,,
+,,?,sing,,
+,,,,,
+,,EVERY,TRUE,Qualifying Person,
+,,,,TRUE,walks
+,,,,TRUE,eats
+,,,,FALSE,drinks
+,,MUST,,,
+,,?,sing,,
